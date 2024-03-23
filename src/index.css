@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --foreground-color: #DDCC66;
+    --background-color: #000;
+    font-family:  "Roboto", sans-serif;
+    background: var(--background-color);
+    color: var(--foreground-color);
+}
